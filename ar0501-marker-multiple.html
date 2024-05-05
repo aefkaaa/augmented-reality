@@ -19,16 +19,17 @@
 
         <!-- create assets -->
         <a-assets timeout="900000">
-            <a-asset-item id="drone" src="./assets/busterDrone/busterDrone.gltf"></a-asset-item>
-            <a-asset-item id="cookie" src="./assets/cookie5/cookie5.gltf"></a-asset-item>
-            <a-asset-item id="roti" src="./assets/roti/roti.gltf"></a-asset-item>
-            <a-asset-item id="motorbike" src="./assets/motorbike/scene.gltf"></a-asset-item>
-            <a-asset-item id="helmet" src="./assets/damagedHelmet/damagedHelmet.gltf"></a-asset-item>
-            <a-asset-item id="skull" src="./assets/skull_downloadable/scene.gltf"></a-asset-item>
-            <img id="bougenville" src="./images/photo/bougenville.jpg">
-            <img id="kio" src="./images/photo/kio.jpg">
-            <img id="mahasiswa" src="./images/photo/mahasiswa.jpg">
-            <img id="airterjun" src="./images/photo/wisata-air-terjun.jpg">
+            <a-asset-item id="cat1" src="./assets/cat1/scene.gltf"></a-asset-item>
+            <a-asset-item id="cat2" src="./assets/cat2/scene.gltf"></a-asset-item>
+            <a-asset-item id="cat3" src="./assets/cat3/scene.gltf"></a-asset-item>
+            <a-asset-item id="cat4" src="./assets/cat4/scene.gltf"></a-asset-item>
+            <a-asset-item id="cat5" src="./assets/cat5/scene.gltf"></a-asset-item>
+            <a-asset-item id="cat6" src="./assets/cat6/scene.gltf"></a-asset-item>
+            <a-asset-item id="cat7" src="./assets/cat7/scene.gltf"></a-asset-item>
+            <a-asset-item id="cat8" src="./assets/cat8/scene.gltf"></a-asset-item>
+            <a-asset-item id="cat9" src="./assets/cat9/scene.gltf"></a-asset-item>
+            <a-asset-item id="cat10" src="./assets/cat10/scene.gltf"></a-asset-item>
+
         </a-assets>
         <!-- handle unknown marker -->
         <a-marker type="unknown">
@@ -46,52 +47,69 @@
         </a-marker>
 
         <!-- handle matrix marker -->
-        <a-marker type="barcode" value="0">
+        <a-marker type="barcode" value="-">
             <a-box position="0 0.5 0" material="opacity: 0.5; side: double;color:red;">
                 <a-torus-knot radius="0.26" radius-tubular="0.05"></a-torus-knot>
             </a-box>
         </a-marker>
 
         <!-- handle matrix marker -->
+        <a-marker type="barcode" value="0">
+            <a-gltf-model src="./assets/cat1/scene.gltf" rotation="-90 0 0" position="0.05 0.05 0.05" scale="0.5 0.5 0.5"></a-gltf-model>
+        </a-marker>
+
+        <!-- handle matrix marker -->
         <a-marker type="barcode" value="1">
-            <a-entity gltf-model="#roti"></a-entity>
+            <a-gltf-model src="./assets/cat2/scene.gltf" rotation="-90 0 0" position="0.05 0.05 0.05" scale="0.5 0.5 0.5"></a-gltf-model>
         </a-marker>
 
         <!-- handle matrix marker -->
         <a-marker type="barcode" value="2">
-            <a-plane width="1" height="1" position="0 0 0" rotation="-90 0 0" color="green">
-                <a-gltf-model src="#motorbike" rotation="90 0 0" position="0 -0.2 0.2" scale="0.5 0.5 0.5"></a-gltf-model>
-            </a-plane>
+            <a-gltf-model src="./assets/cat3/scene.gltf" rotation="-90 0 0" position="0.05 0.05 0.05" scale="0.5 0.5 0.5"></a-gltf-model>
         </a-marker>
 
         <!-- handle matrix marker -->
         <a-marker type="barcode" value="3">
-            <a-plane width="1" height="1" position="0 0 0" rotation="-90 0 0" color="white">
-                <a-gltf-model src="#helmet" rotation="0 0 0" position="0 0 0" scale="0 0 0.5"></a-gltf-model>
-            </a-plane>
+            <a-gltf-model src="./assets/cat4/scene.gltf" rotation="-90 0 0" position="0.05 0.05 0.05" scale="0.5 0.5 0.5"></a-gltf-model>
         </a-marker>
 
         <!-- handle matrix marker -->
         <a-marker type="barcode" value="4">
-            <a-plane width="1" height="1" position="0 0 0" rotation="-90 0 0" color="cyan">
-                <a-gltf-model src="#skull" rotation="90 0 0" position="0 -0.2 1" scale="0.5 0.5 0.5"></a-gltf-model>
-            </a-plane>
+            <a-gltf-model src="./assets/cat5/scene.gltf" rotation="-90 0 0" position="0.05 0.05 0.05" scale="0.5 0.5 0.5"></a-gltf-model>
         </a-marker>
 
         <!-- handle matrix marker -->
         <a-marker type="barcode" value="5">
-            <a-image src="#bougenville" rotation="-90 0 0" width="2" height="1">
-                <a-entity position="0 -2.5 0" text-geometry="value: Perpustakaan Sekolah Alam;  style: italic; size: 0.4; weight: bold; height: 0;" material="shader: flat; color: blue" align="center"></a-entity>
-            </a-image>
+            <a-gltf-model src="./assets/cat6/scene.gltf" rotation="-90 0 0" position="0.05 0.05 0.05" scale="0.5 0.5 0.5"></a-gltf-model>
         </a-marker>
 
         <!-- handle matrix marker -->
         <a-marker type="barcode" value="6">
-            <a-image src="#kio" rotation="-90 0 0" width="2" height="1"></a-image>
+            <a-gltf-model src="./assets/cat7/scene.gltf" rotation="-90 0 0" position="0.05 0.05 0.05" scale="0.5 0.5 0.5"></a-gltf-model>
         </a-marker>
 
         <!-- handle matrix marker -->
         <a-marker type="barcode" value="7">
+            <a-gltf-model src="./assets/cat8/scene.gltf" rotation="-90 0 0" position="0.05 0.05 0.05" scale="0.5 0.5 0.5"></a-gltf-model>
+        </a-marker>
+
+        <!-- handle matrix marker -->
+        <a-marker type="barcode" value="8">
+            <a-gltf-model src="./assets/cat9/scene.gltf" rotation="-90 0 0" position="0.05 0.05 0.05" scale="0.5 0.5 0.5"></a-gltf-model>
+        </a-marker>
+
+        <!-- handle matrix marker -->
+        <a-marker type="barcode" value="9">
+            <a-gltf-model src="./assets/cat10/scene.gltf" rotation="-90 0 0" position="0.05 0.05 0.05" scale="0.5 0.5 0.5"></a-gltf-model>
+        </a-marker>
+
+        <!-- handle matrix marker -->
+        <a-marker type="barcode" value="-">
+            <a-image src="#kio" rotation="-90 0 0" width="2" height="1"></a-image>
+        </a-marker>
+
+        <!-- handle matrix marker -->
+        <a-marker type="barcode" value="-">
             <a-plane width="1" height="1" position="0 0 0" rotation="-90 0 0" color="white" src="#mahasiswa">
                 <a-text value="Bunga" color="#111" position="0 -0.7 0" align="center"></a-text>
                 <a-sphere color="blue" position="-0.7 -0.7 0" radius="0.2"></a-sphere>
@@ -100,7 +118,7 @@
         </a-marker>
 
         <!-- handle matrix marker -->
-        <a-marker type="barcode" value="8">
+        <a-marker type="barcode" value="-">
             <a-plane width="1" height="1" position="0 0 0" rotation="-90 0 0" color="white" src="#airterjun">
                 <a-torus-knot radius="0.06" radius-tubular="0.05" position="0.7 -0.7 0">
                 </a-torus-knot>
