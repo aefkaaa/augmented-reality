@@ -1,0 +1,11 @@
+Model Information:
+* title:	Caracal Cat Updated
+* source:	https://sketchfab.com/3d-models/caracal-cat-updated-3b50dd098082419e9a44a0522a09e758
+* author:	kenchoo (https://sketchfab.com/kenchoo)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Caracal Cat Updated" (https://sketchfab.com/3d-models/caracal-cat-updated-3b50dd098082419e9a44a0522a09e758) by kenchoo (https://sketchfab.com/kenchoo) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)

@@ -1,0 +1,361 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.199253112077713,
+        0.6769969463348389,
+        0.8132224082946777
+      ],
+      "min": [
+        -0.17248404026031494,
+        -0.0013200308894738555,
+        -0.8151348233222961
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 786384,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9999964833259583,
+        0.9999999403953552,
+        0.9997533559799194
+      ],
+      "min": [
+        -0.9999960064888,
+        -0.9999988675117493,
+        -0.9999940395355225
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 329340,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1572768,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.19836392998695374,
+        0.6582855582237244,
+        0.8009343147277832
+      ],
+      "min": [
+        -0.19878306984901428,
+        -0.4015748202800751,
+        -0.5009530782699585
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2359152,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9999988079071045,
+        0.9998025894165039,
+        0.9994491338729858
+      ],
+      "min": [
+        -0.9999988079071045,
+        -0.9999809265136719,
+        -0.9998206496238708
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1317360,
+      "componentType": 5125,
+      "count": 306534,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3145536,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.03466721251606941,
+        0.6769969463348389,
+        0.8135485649108887
+      ],
+      "min": [
+        -0.199253112077713,
+        -0.4015748202800751,
+        -0.8148329257965088
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3931920,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9999940395355225,
+        0.9999142289161682,
+        0.9997530579566956
+      ],
+      "min": [
+        -0.9999964833259583,
+        -0.9999809265136719,
+        -0.9998205304145813
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 2543496,
+      "componentType": 5125,
+      "count": 305562,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 4718304,
+      "componentType": 5126,
+      "count": 19037,
+      "max": [
+        0.1936621218919754,
+        0.6411080956459045,
+        0.7725759744644165
+      ],
+      "min": [
+        -0.15727871656417847,
+        0.035073891282081604,
+        -0.8125084042549133
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 4946748,
+      "componentType": 5126,
+      "count": 19037,
+      "max": [
+        0.9999496936798096,
+        0.9993511438369751,
+        0.966248631477356
+      ],
+      "min": [
+        -0.9999921917915344,
+        -0.9668632745742798,
+        -0.9987177848815918
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 3765744,
+      "componentType": 5125,
+      "count": 91272,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "SculptCuteness (https://sketchfab.com/SculptCuteness)",
+      "license": "SKETCHFAB Standard (https://sketchfab.com/licenses)",
+      "source": "https://sketchfab.com/3d-models/cat-base-mesh-kitten-free-3d-f7d393ba6fa9473db551c24ba7245c00",
+      "title": "Cat Base Mesh Kitten FREE 3D"
+    },
+    "generator": "Sketchfab-15.74.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 4130832,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 5175192,
+      "byteOffset": 4130832,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 9306024,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "material",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5,
+          0.5,
+          0.5,
+          1.0
+        ],
+        "metallicFactor": 0.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Mau_Mau_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Mau_Mau_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 4,
+            "POSITION": 3
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Mau_Mau_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6
+          },
+          "indices": 8,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Mau_Mau_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 10,
+            "POSITION": 9
+          },
+          "indices": 11,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "ffc6e5483fe44a759af2acc6a7c7c07a.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "Mau"
+    },
+    {
+      "mesh": 0,
+      "name": "Mau_Mau_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Mau_Mau_0"
+    },
+    {
+      "mesh": 2,
+      "name": "Mau_Mau_0"
+    },
+    {
+      "mesh": 3,
+      "name": "Mau_Mau_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        15.87720012664795,
+        0.0236114002764225,
+        14.744600296020508
+      ],
+      "min": [
+        -14.047699928283691,
+        -11.977299690246582,
+        -15.132800102233887
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 786384,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9999576807022095,
+        1.0,
+        0.9999873638153076
+      ],
+      "min": [
+        -0.9999120235443115,
+        -0.9999821782112122,
+        -0.999910831451416
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9999753832817078,
+        0.9998921751976013,
+        0.9999934434890747,
+        1.0
+      ],
+      "min": [
+        -0.9999786019325256,
+        -0.9999560117721558,
+        -0.9999746084213257,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9914399981498718,
+        0.9990119934082031
+      ],
+      "min": [
+        0.0009830000344663858,
+        0.0009919999865815043
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 360105,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1572768,
+      "componentType": 5126,
+      "count": 11910,
+      "max": [
+        4.4955902099609375,
+        -0.292261004447937,
+        7.851590156555176
+      ],
+      "min": [
+        -13.1225004196167,
+        -11.963899612426758,
+        -15.253499984741211
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1715688,
+      "componentType": 5126,
+      "count": 11910,
+      "max": [
+        0.9976949691772461,
+        0.9999998211860657,
+        0.9999961256980896
+      ],
+      "min": [
+        -0.9999127984046936,
+        -0.99966961145401,
+        -0.9992284178733826
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 1048512,
+      "componentType": 5126,
+      "count": 11910,
+      "max": [
+        0.9999953508377075,
+        0.9998188614845276,
+        0.999968945980072,
+        1.0
+      ],
+      "min": [
+        -0.9998505711555481,
+        -0.9999998211860657,
+        -0.9995126128196716,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 524256,
+      "componentType": 5126,
+      "count": 11910,
+      "max": [
+        0.9902970194816589,
+        0.999019980430603
+      ],
+      "min": [
+        0.000994000001810491,
+        0.0056570000015199184
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1440420,
+      "componentType": 5125,
+      "count": 57009,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Scottish Maritime Museum (https://sketchfab.com/ScottishMaritimeMuseum)",
+      "license": "CC0-1.0 (http://creativecommons.org/publicdomain/zero/1.0/)",
+      "source": "https://sketchfab.com/3d-models/cats-head-from-the-cutty-sark-3bb6e09e48384b849a04b60a1fc504ae",
+      "title": "Cat's head from the Cutty Sark"
+    },
+    "generator": "Sketchfab-12.67.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 1668456,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 619536,
+      "byteOffset": 1668456,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1858608,
+      "byteOffset": 2287992,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1239072,
+      "byteOffset": 4146600,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 5385672,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Cathead_Tif_Model_4_Material_t1_l0_u1_v1_baseColor.png"
+    },
+    {
+      "uri": "textures/Cathead_Tif_Model_4_Material_t1_l0_u1_v1_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Cathead_Tif_Model_4_Material_t1_l0_u1_v1_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Cathead_Tif_Model_4_Material_t1_l0_u1_v1",
+      "normalTexture": {
+        "index": 2
+      },
+      "occlusionTexture": {
+        "index": 1,
+        "strength": 0.8292682926829268
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.6865151607629024,
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        -0.7364211082458496,
+        -0.6456881761550903,
+        0.2019177377223967,
+        0.0,
+        -0.005008872598409653,
+        -0.29325175285339333,
+        -0.9560221433639527,
+        0.0,
+        0.676504909992218,
+        -0.7050462365150452,
+        0.212722599506378,
+        0.0,
+        1.7305842638015747,
+        -1.595937728881836,
+        0.13227403163909876,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2,
+        3
+      ],
+      "name": "Cathead_Tif_Model_4.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_2"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_3"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
